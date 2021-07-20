@@ -1,0 +1,11 @@
+absl-py
+googledrivedownloader
+jax
+jaxlib
+objax>=1.3.1
+pillow
+tensorboard
+tensorflow-cpu
+tensorflow-addons
+tensorflow_datasets
+tqdm
