@@ -6,6 +6,8 @@ David Berthelot, Rebecca Roelofs, Kihyuk Sohn, Nicholas Carlini, and Alex Kuraki
 This is not an officially supported Google product.
 
 
+![AdaMatch diagram](media/AdaMatch.png)
+
 ## Setup
 
 ```bash
