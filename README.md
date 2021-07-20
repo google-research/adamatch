@@ -1,7 +1,5 @@
 # AdaMatch
 
-Bridging the gap between Semi-Supervised Learning (SSL) and Domain Adaptation (DA).
-
 Code for the paper: "[AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation](https://arxiv.org/abs/2106.04732)" by
 David Berthelot, Rebecca Roelofs, Kihyuk Sohn, Nicholas Carlini, and Alex Kurakin.
 
@@ -47,8 +45,6 @@ bash ./runs/create_datasets.sh
 ```
 
 ## Training
-
-For reproducing paper tables, see the scripts in `./runs`.
 
 ### Options
 
